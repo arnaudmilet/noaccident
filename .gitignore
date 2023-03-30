@@ -2,10 +2,11 @@
 /*
 # but do not ignore the .gitignore file
 !.gitignore
-
 # do not ignore Images dir (needed due to the above bullet point)
 !/Images
 # ignore files and sub dirs in the /Images directory
 /Images/*
 # but do not ignore the config.fish file
 !/Images/no_accident.png
+.Rproj.user
+.secrets
