@@ -392,7 +392,7 @@ France
 </tbody>
 </table>
 
-## Cas pratiques sur Montpellier Méditerranée Métropole
+## Cas pratique sur Montpellier Méditerranée Métropole
 
 Le cas pratique que nous avons choisi de traiter est Montpellier
 Méditerranée Métropole. L’ensemble des données présentées ci-dessus ont
